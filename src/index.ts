@@ -1,19 +1,11 @@
 import moment from 'moment';
-import {launch} from 'puppeteer';
-
+import {generate_launch} from '../src/generate_launch';
 moment.locale('es');
-const hoy = moment();
-console.log(hoy.format('dddd Do MMMM YYYY'));
 
-(async () => {
-    const browser = await launch({headless: false});
-    const page = await browser.newPage();
-    await page.setViewport({
-        width: 1519,
-        height: 7162,
-        deviceScaleFactor: 1,
-    });
-    await page.goto('https://naruto.fandom.com/wiki/Category:Characters');
-    await page.screenshot({path: 'google.png'});
-    await browser.close();
+(async ()=>{
+    const hoy = moment();
+    console.log(hoy.format('dddd Do MMMM YYYY'));
+    const url = 'https://naruto.fandom.com/wiki/Category:Jutsu';
+    const gen = await generate_launch(url);
+    await gen[0].close();
 })();

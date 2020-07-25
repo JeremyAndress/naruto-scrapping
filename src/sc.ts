@@ -1,4 +1,4 @@
-function getWidth() {
+export async function getWidth() {
     return Math.max(
       document.body.scrollWidth,
       document.documentElement.scrollWidth,
@@ -6,17 +6,15 @@ function getWidth() {
       document.documentElement.offsetWidth,
       document.documentElement.clientWidth
     );
-  }
+}
+
+export function getHeight() {
+  return Math.max(
+    document.body.scrollHeight,
+    document.documentElement.scrollHeight,
+    document.body.offsetHeight,
+    document.documentElement.offsetHeight,
+    document.documentElement.clientHeight
+  );
+}
   
-  function getHeight() {
-    return Math.max(
-      document.body.scrollHeight,
-      document.documentElement.scrollHeight,
-      document.body.offsetHeight,
-      document.documentElement.offsetHeight,
-      document.documentElement.clientHeight
-    );
-  }
-  
-  console.log('Width:  ' +  getWidth() );
-  console.log('Height: ' + getHeight() );
