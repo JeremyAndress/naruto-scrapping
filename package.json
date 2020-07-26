@@ -1,0 +1,24 @@
+{
+  "name": "naruto-scrapping",
+  "version": "1.0.0",
+  "description": "naruto puppeteer scrapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyAndress/naruto-scrapping.git"
+  },
+  "author": "JeremyAndress",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeremyAndress/naruto-scrapping/issues"
+  },
+  "homepage": "https://github.com/JeremyAndress/naruto-scrapping#readme",
+  "dependencies": {
+    "@types/puppeteer": "^3.0.1",
+    "moment": "^2.27.0",
+    "puppeteer": "^5.2.1"
+  }
+}
