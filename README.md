@@ -3,6 +3,6 @@
 <!-- Scrapping done with the puppeteer tool in its v5.2 version. Code made in Typescript.
 <p style="float: right;" ><img src="screenshots\lee.gif"></p> -->
 
-<img align="left" width="150" height="300" src="screenshots\lee.gif">
+<img align="left" width="250" height="300" src="screenshots\lee.gif">
 
 Scrapping done with the puppeteer tool in its v5.2 version. Code made in Typescript.
