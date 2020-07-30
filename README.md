@@ -5,5 +5,6 @@
 Scrapping done with the puppeteer tool in its v5.2 version. Code made in Typescript.
 
 ## Requirements
-- typescript@3.9.7
-- ts-node@8.10.2
+    - node - 10.15
+    - typescript - 3.9.7
+    - ts-node - 8.10.2
