@@ -33,6 +33,5 @@ export async function generate_launch(url:string){
     console.log('Dimensions:', dimensions);
     //await page.screenshot({path: 'google.png'});
     return [browser,page];
-    //await browser.close();
 }
 

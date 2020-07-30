@@ -1,4 +1,3 @@
-
 export async function get_all_justus(page:any){
     const data = await page.evaluate(() => { 
         const all_link = document.querySelectorAll('a.category-page__member-link')
@@ -11,4 +10,17 @@ export async function get_all_justus(page:any){
         });
     });
     console.log(data);
+}
+
+export async function next_page(page:any){
+    const data = await page.evaluate(()=>{
+        let next_page: HTMLElement  = document.querySelector('a.category-page__pagination-next') as HTMLElement;
+        if (next_page){
+            next_page.click()
+            return true
+        }else{
+            return false
+        }
+    })
+    return data
 }
