@@ -18,13 +18,16 @@ async function next_page(page:any):Promise<boolean>{
     const data = await page.evaluate(()=>{
         let next_page: HTMLElement  = document.querySelector('a.category-page__pagination-next') as HTMLElement;
         if (next_page){
-            next_page.click()
-            return true
+            //next_page.click()
+            const url = next_page.getAttribute('href')
+            return [true,url]
         }else{
-            return false
+            return [false]
         }
     })
-    return data
+    if (data[0]) await page.goto(data[1]);
+    console.log('data',data)
+    return data[0]
 }
 
 export async function get_all_jutsus(page:any,debug=null){
@@ -37,6 +40,8 @@ export async function get_all_jutsus(page:any,debug=null){
         let data: JutsusBody[] = [];
         let jutsus_page: JutsusBody[] = await get_jutsus_page(page);
         data = data.concat(jutsus_page);
+        console.log('here')
+        console.log(data)
         const isnext:boolean = await next_page(page);
         if (isnext) await get_all_jutsus(page);
     }
