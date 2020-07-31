@@ -27,9 +27,18 @@ async function next_page(page:any):Promise<boolean>{
     return data
 }
 
-export async function get_all_jutsus(page:any){
-    let data: JutsusBody[] = await get_jutsus_page(page);
-    console.log(data);
-    let isnext: boolean = await next_page(page);
-    console.log(isnext);
+export async function get_all_jutsus(page:any,debug=null){
+    if(debug){
+        let data: JutsusBody[] = await get_jutsus_page(page);
+        console.log(data);
+        let isnext: boolean = await next_page(page);
+        console.log(isnext);
+    }else{
+        let data: JutsusBody[] = [];
+        let jutsus_page: JutsusBody[] = await get_jutsus_page(page);
+        data = data.concat(jutsus_page);
+        const isnext:boolean = await next_page(page);
+        if (isnext) await get_all_jutsus(page);
+    }
+    return 'Well Done' //🥑  
 }
