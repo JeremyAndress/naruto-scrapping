@@ -30,26 +30,50 @@ async function next_page(page:any):Promise<boolean>{
     return data[0]
 }
 
-async function get_all_info(jutsu:JutsusBody){
+async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
     console.log(jutsu);
+    if(jutsu.title === 'Accelerated Armed Revolving Heaven'){
+        let page = await browser.newPage();
+        await page.goto(`${url}${jutsu.href}`);
+        const title = await page.evaluate(()=>{
+            const title:HTMLElement = document.querySelector('div.pi-data-value') as HTMLElement;
+            //const title:HTMLElement = document.querySelector('h1.page-header__title') as HTMLElement;
+            if(title){
+                return title.textContent
+            }else{
+                return null
+            }
+        })
+        if(title) console.log(title)
+        //await page.close();
+
+    }
+    // const page = await browser.newPage();
+    // await page.goto(`${url}${jutsu.href}`);
+    // console.log('abierta');
+    // await page.close();
 }
 
-export async function get_all_jutsus(page:any,debug:boolean = false){
+export async function get_all_jutsus(browser_page:any,url:string,debug:boolean = false){
+    let page = browser_page[1];
     if(debug){
         let data: JutsusBody[] = await get_jutsus_page(page);
         console.log(data.slice(0,10));
+        // data.forEach(item =>{
+        //     generate_page_jutsu(item,url,browser_page[0])
+        // });
+        for (const item of data){
+            await generate_page_jutsu(item,url,browser_page[0])
+        }
         let isnext: boolean = await next_page(page);
         console.log(isnext);
-        data.forEach(item =>{
-            get_all_info(item)
-        });
     }else{
         let data: JutsusBody[] = [];
         let jutsus_page: JutsusBody[] = await get_jutsus_page(page);
         data = data.concat(jutsus_page);
         console.log(data.slice(0,10));
         const isnext:boolean = await next_page(page);
-        if (isnext) await get_all_jutsus(page);
+        if (isnext) await get_all_jutsus(page,url);
     }
     return 'Well Done' //🥑  
 }
