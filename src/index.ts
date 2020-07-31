@@ -1,6 +1,6 @@
 import moment from 'moment';
 import {generate_launch} from '../src/generate_launch';
-import {get_all_justus,next_page} from '../src/justus';
+import {get_all_jutsus} from '../src/jutsus';
 moment.locale('es');
 
 (async ()=>{
@@ -8,7 +8,7 @@ moment.locale('es');
     console.log(hoy.format('dddd Do MMMM YYYY'));
     const url = 'https://naruto.fandom.com/wiki/Category:Jutsu';
     const gen = await generate_launch(url);
-    //await get_all_justus(gen[1]);
-    await next_page(gen[1]);
+    const prueba = await get_all_jutsus(gen[1]);
+    //await next_page(gen[1]);
     //await gen[0].close();
 })();

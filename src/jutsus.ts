@@ -1,4 +1,6 @@
-export async function get_all_justus(page:any){
+interface JutsusBody { href: string; title: string }
+
+async function get_jutsus_page(page:any):Promise<JutsusBody[]>{
     const data = await page.evaluate(() => { 
         const all_link = document.querySelectorAll('a.category-page__member-link')
         const all_link_l = Array.from(all_link)
@@ -9,10 +11,10 @@ export async function get_all_justus(page:any){
             }
         });
     });
-    console.log(data);
+    return data || []
 }
 
-export async function next_page(page:any){
+async function next_page(page:any):Promise<boolean>{
     const data = await page.evaluate(()=>{
         let next_page: HTMLElement  = document.querySelector('a.category-page__pagination-next') as HTMLElement;
         if (next_page){
@@ -23,4 +25,11 @@ export async function next_page(page:any){
         }
     })
     return data
+}
+
+export async function get_all_jutsus(page:any){
+    let data: JutsusBody[] = await get_jutsus_page(page);
+    console.log(data);
+    let isnext: boolean = await next_page(page);
+    console.log(isnext);
 }
