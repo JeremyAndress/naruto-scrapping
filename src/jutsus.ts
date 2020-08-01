@@ -32,26 +32,29 @@ async function next_page(page:any):Promise<boolean>{
 
 async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
     console.log(jutsu);
-    if(jutsu.title === 'Accelerated Armed Revolving Heaven'){
-        let page = await browser.newPage();
-        await page.goto(`${url}${jutsu.href}`);
-        const title = await page.evaluate(()=>{
-            const title:HTMLElement = document.querySelector('div.pi-data-value') as HTMLElement;
-            //const title:HTMLElement = document.querySelector('h1.page-header__title') as HTMLElement;
-            if(title){
-                return title.textContent
-            }else{
-                return null
-            }
-        })
-        if(title) console.log(title)
-        //await page.close();
-
-    }
-    // const page = await browser.newPage();
-    // await page.goto(`${url}${jutsu.href}`);
-    // console.log('abierta');
-    // await page.close();
+    let page = await browser.newPage();
+    await page.goto(`${url}${jutsu.href}`);
+    const title = await page.evaluate(()=>{
+        // const title:HTMLElement = document.querySelector('div.pi-data-value') as HTMLElement;
+        // if(title){
+        //     return title.textContent
+        // }else{
+        //     return null
+        // }
+        const sections =  Array.from(document.querySelectorAll('section.pi-item.pi-group.pi-border-color'))
+        for (const sec of sections){
+            const h2 = sec.querySelector('h2.pi-item')
+            const name =  (h2) ? h2.textContent : null
+            //querySelectorAll('div.pi-item.pi-data.pi-item-spacing')
+            return name
+        }
+    })
+    console.log('=== === === ===')
+    // for (const to of title){
+    //     console.log(to)
+    // }
+    if(title) console.log(title)
+    await page.close();
 }
 
 export async function get_all_jutsus(browser_page:any,url:string,debug:boolean = false){
