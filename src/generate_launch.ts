@@ -31,7 +31,6 @@ export async function generate_launch(url:string,path:string){
     console.log(dimensions);
     await page.setViewport(dimensions);
     console.log('Dimensions:', dimensions);
-    //await page.screenshot({path: 'google.png'});
     return [browser,page];
 }
 

@@ -31,28 +31,29 @@ async function next_page(page:any):Promise<boolean>{
 }
 
 async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
-    console.log(jutsu);
     let page = await browser.newPage();
     await page.goto(`${url}${jutsu.href}`);
     const title = await page.evaluate(()=>{
-        // const title:HTMLElement = document.querySelector('div.pi-data-value') as HTMLElement;
-        // if(title){
-        //     return title.textContent
-        // }else{
-        //     return null
-        // }
+        let data: any = {}
         const sections =  Array.from(document.querySelectorAll('section.pi-item.pi-group.pi-border-color'))
         for (const sec of sections){
             const h2 = sec.querySelector('h2.pi-item')
             const name =  (h2) ? h2.textContent : null
-            //querySelectorAll('div.pi-item.pi-data.pi-item-spacing')
-            return name
+            if (name === 'Debut'){
+                const debut = Array.from(document.querySelectorAll('div.pi-item.pi-data.pi-item-spacing.pi-border-color'))
+                for (const deb of debut){
+                    const h3 = deb.querySelector('h3.pi-data-label.pi-secondary-font')
+                    const h3_content = (h3) ? h3.textContent : null
+                    if (h3_content === 'Appears in'){
+                        const content = deb.querySelector('div.pi-data-value.pi-font') 
+                        data[h3_content] = (content) ? content.textContent : null 
+                    }
+                }
+            }
         }
+        return data
     })
-    console.log('=== === === ===')
-    // for (const to of title){
-    //     console.log(to)
-    // }
+    console.log(`===${jutsu.href}===`)
     if(title) console.log(title)
     await page.close();
 }
