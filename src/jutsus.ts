@@ -1,4 +1,5 @@
 import {JutsusBody,DebutInfo,DataInfo,info_jutsus} from '../src/interfaces'
+import * as fs from "fs";
 
 async function get_jutsus_page(page:any):Promise<JutsusBody[]>{
     const data = await page.evaluate(() => { 
@@ -89,8 +90,8 @@ async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
         data.Debut = debut_info
         return data
     })
-    //console.log(`===${jutsu.href}===`)
-    //if(info) console.log(info)
+    console.log(`===${jutsu.href}===`)
+    if(info) console.log(info)
     await page.close();
     return info
 }
@@ -100,11 +101,19 @@ export async function get_all_jutsus(browser_page:any,url:string,debug:boolean =
     let data_to_json: Array<info_jutsus> = []
     if(debug){
         let data: JutsusBody[] = await get_jutsus_page(page);
-        console.log(data.slice(0,10));
+        console.log(data.slice(0,2));
         for (const item of data){
             let info = await generate_page_jutsu(item,url,browser_page[0])
             data_to_json = data_to_json.concat(info)
         }
+        fs.writeFile("data/jutsus.json", JSON.stringify(data_to_json,null,4), 'utf8', function (err) {
+            if (err) {
+                return console.log(err);
+            }
+        
+            console.log("The file was saved!");
+        }); 
+
         let isnext: boolean = await next_page(page);
         console.log(isnext);
     }else{
