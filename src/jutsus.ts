@@ -48,6 +48,29 @@ async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
                         const content = deb.querySelector('div.pi-data-value.pi-font') 
                         data[h3_content] = (content) ? content.textContent : null 
                     }
+                    if (h3_content === 'Manga'){
+                        const content = deb.querySelector('div.pi-data-value.pi-font') 
+                        data[h3_content] = (content) ? content.textContent : null 
+                    }
+                }
+            }
+            if (name === 'Data'){
+                const data_naruto = Array.from(document.querySelectorAll('div.pi-item.pi-data.pi-item-spacing.pi-border-color'))
+                for(const dn of data_naruto){
+                    const h3 = dn.querySelector('h3.pi-data-label.pi-secondary-font')
+                    const h3_content = (h3) ? h3.textContent: null
+                    if (h3_content === 'Classification'){
+                        const content = dn.querySelector('div.pi-data-value.pi-font') 
+                        data[h3_content] = (content) ? content.textContent : null 
+                    }
+                    if (h3_content === 'Nature'){
+                        const content = dn.querySelector('div.pi-data-value.pi-font') 
+                        data[h3_content] = (content) ? content.textContent : null 
+                    }
+                    if (h3_content === 'Class'){
+                        const content = dn.querySelector('div.pi-data-value.pi-font') 
+                        data[h3_content] = (content) ? content.textContent : null 
+                    }
                 }
             }
         }
