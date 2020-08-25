@@ -1,4 +1,4 @@
-interface JutsusBody { href: string; title: string }
+import {JutsusBody,DebutInfo,DataInfo,info_jutsus} from '../src/interfaces'
 
 async function get_jutsus_page(page:any):Promise<JutsusBody[]>{
     const data = await page.evaluate(() => { 
@@ -33,8 +33,11 @@ async function next_page(page:any):Promise<boolean>{
 async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
     let page = await browser.newPage();
     await page.goto(`${url}${jutsu.href}`);
-    const title = await page.evaluate(()=>{
-        let data: any = {}
+    const info = await page.evaluate(()=>{
+        let data: info_jutsus = {};
+        let debut_info : DebutInfo = {};
+        let data_info : DataInfo = {};
+        const regex = new RegExp('<[^>]*>');
         const sections =  Array.from(document.querySelectorAll('section.pi-item.pi-group.pi-border-color'))
         for (const sec of sections){
             const h2 = sec.querySelector('h2.pi-item')
@@ -46,11 +49,11 @@ async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
                     const h3_content = (h3) ? h3.textContent : null
                     if (h3_content === 'Appears in'){
                         const content = deb.querySelector('div.pi-data-value.pi-font') 
-                        data[h3_content] = (content) ? content.textContent : null 
+                        debut_info[h3_content] = (content) ? content.textContent : null 
                     }
                     if (h3_content === 'Manga'){
                         const content = deb.querySelector('div.pi-data-value.pi-font') 
-                        data[h3_content] = (content) ? content.textContent : null 
+                        debut_info[h3_content] = (content) ? content.textContent : null 
                     }
                 }
             }
@@ -61,36 +64,46 @@ async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
                     const h3_content = (h3) ? h3.textContent: null
                     if (h3_content === 'Classification'){
                         const content = dn.querySelector('div.pi-data-value.pi-font') 
-                        data[h3_content] = (content) ? content.textContent : null 
+                        data_info[h3_content] = (content) ? 
+                        content.textContent ?content.textContent.replace(regex,' ') :null
+                        : null 
                     }
                     if (h3_content === 'Nature'){
                         const content = dn.querySelector('div.pi-data-value.pi-font') 
-                        data[h3_content] = (content) ? content.textContent : null 
+                        data_info[h3_content] = (content) ? 
+                            content.textContent ? content.textContent.replace(regex,' ') :null 
+                            : null 
                     }
                     if (h3_content === 'Class'){
                         const content = dn.querySelector('div.pi-data-value.pi-font') 
-                        data[h3_content] = (content) ? content.textContent : null 
+                        data_info[h3_content] = (content) ? content.textContent : null 
+                    }
+                    if (h3_content === 'Range'){
+                        const content = dn.querySelector('div.pi-data-value.pi-font') 
+                        data_info[h3_content] = (content) ? content.textContent : null 
                     }
                 }
             }
         }
+        data.Data = data_info
+        data.Debut = debut_info
         return data
     })
-    console.log(`===${jutsu.href}===`)
-    if(title) console.log(title)
+    //console.log(`===${jutsu.href}===`)
+    //if(info) console.log(info)
     await page.close();
+    return info
 }
 
 export async function get_all_jutsus(browser_page:any,url:string,debug:boolean = false){
     let page = browser_page[1];
+    let data_to_json: Array<info_jutsus> = []
     if(debug){
         let data: JutsusBody[] = await get_jutsus_page(page);
         console.log(data.slice(0,10));
-        // data.forEach(item =>{
-        //     generate_page_jutsu(item,url,browser_page[0])
-        // });
         for (const item of data){
-            await generate_page_jutsu(item,url,browser_page[0])
+            let info = await generate_page_jutsu(item,url,browser_page[0])
+            data_to_json = data_to_json.concat(info)
         }
         let isnext: boolean = await next_page(page);
         console.log(isnext);
@@ -98,7 +111,7 @@ export async function get_all_jutsus(browser_page:any,url:string,debug:boolean =
         let data: JutsusBody[] = [];
         let jutsus_page: JutsusBody[] = await get_jutsus_page(page);
         data = data.concat(jutsus_page);
-        console.log(data.slice(0,10));
+        console.log(data.slice(0,15));
         const isnext:boolean = await next_page(page);
         if (isnext) await get_all_jutsus(page,url);
     }
