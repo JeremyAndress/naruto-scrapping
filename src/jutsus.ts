@@ -1,5 +1,5 @@
-import {JutsusBody,DebutInfo,DataInfo,info_jutsus} from '../src/interfaces'
 import * as fs from "fs";
+import {JutsusBody,DebutInfo,DataInfo,info_jutsus} from '../src/interfaces'
 
 async function get_jutsus_page(page:any):Promise<JutsusBody[]>{
     const data = await page.evaluate(() => { 
@@ -27,9 +27,6 @@ async function next_page(page:any):Promise<boolean>{
         }
     })
     if (data[0]) await page_refresh(page,data[1]);
-    // await page.goto(data[1],{
-    //     waitUntil: 'load'
-    // });
     console.log('data',data)
     return data[0]
 }
@@ -41,22 +38,13 @@ async function page_refresh(page:any,url:string){
         });
         return true;
     }catch(error){
+        console.log(`error ${error}`)
         await page_refresh(page,url);
     }
 }
 
 async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
     let page = await browser.newPage();
-    // try{
-    //     await page.goto(`${url}${jutsu.href}`,{
-    //         waitUntil: 'load'
-    //     });
-    // }catch(Error){
-    //     console.log(`error maldi ${Error}`)
-    //     await page.goto(`${url}${jutsu.href}`,{
-    //         waitUntil: 'load'
-    //     });
-    // }
     await page_refresh(page,`${url}${jutsu.href}`);
     const info = await page.evaluate(()=>{
         let data: info_jutsus = {};
@@ -122,7 +110,6 @@ async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
     return info
 }
 
-
 function write_json(data: Array<info_jutsus>, num:number|string){
     fs.writeFile(`data/jutsus/jutsus${num}.json`, JSON.stringify(data,null,4), 'utf8', function (err) {
         if (err) {
@@ -142,19 +129,12 @@ export async function get_all_jutsus(browser_page:any,url:string,debug:boolean =
             let info = await generate_page_jutsu(item,url,browser_page[0])
             data_to_json = data_to_json.concat(info)
         }
-        // fs.writeFile("data/jutsus/jutsus_example.json", JSON.stringify(data_to_json,null,4), 'utf8', function (err) {
-        //     if (err) {
-        //         return console.log(err);
-        //     }
-        
-        //     console.log("The file was saved!");
-        // }); 
         write_json(data_to_json,'example')
         let isnext: boolean = await next_page(page);
         console.log(isnext);
     }else{
         let data: JutsusBody[] = await get_jutsus_page(page);
-        if (attempts != 1){
+        if (!([1,2,3,4,5].includes(attempts))){
             for (const item of data){
                 let info = await generate_page_jutsu(item,url,browser_page[0]);
                 data_to_json = data_to_json.concat(info);

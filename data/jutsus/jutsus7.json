@@ -1,0 +1,2538 @@
+[
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #5, Naruto Chapter #37",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Leaf Whirlwind",
+        "url": "/wiki/Leaf_Whirlwind"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Leaf Windstorm",
+        "url": "/wiki/Leaf_Windstorm"
+    },
+    {
+        "data": {
+            "classification": "Genjutsu, Kenjutsu",
+            "nature": " Yin Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Leaf-Style Willow",
+        "url": "/wiki/Leaf-Style_Willow"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Leaf-Style: Empty Cicada",
+        "url": "/wiki/Leaf-Style:_Empty_Cicada"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #60, Naruto Chapter #571",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Leaping Bullet Shell Tower",
+        "url": "/wiki/Leaping_Bullet_Shell_Tower"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Fire Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Leaping Flame Blowing Step",
+        "url": "/wiki/Leaping_Flame_Blowing_Step"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #60, Naruto Chapter #566",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Leech Gap",
+        "url": "/wiki/Leech_Gap"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu, Kenjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Legend of the White Fang",
+        "url": "/wiki/Legend_of_the_White_Fang"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu, Space–Time Ninjutsu",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Legend's Portion",
+        "url": "/wiki/Legend%27s_Portion"
+    },
+    {
+        "data": {
+            "classification": "Nintaijutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #49, Naruto Chapter #463",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Liger Bomb",
+        "url": "/wiki/Liger_Bomb"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu, Collaboration Techniques",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Liger Two Platoons Bomb",
+        "url": "/wiki/Liger_Two_Platoons_Bomb"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning (jutsu)",
+        "url": "/wiki/Lightning_(jutsu)"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Ball",
+        "url": "/wiki/Lightning_Ball"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Beast Running Technique: Twin",
+        "url": "/wiki/Lightning_Beast_Running_Technique:_Twin"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Blade Kunai Cutter",
+        "url": "/wiki/Lightning_Blade_Kunai_Cutter"
+    },
+    {
+        "data": {
+            "classification": "Kenjutsu, Chakra Flow",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Bolt",
+        "url": "/wiki/Lightning_Bolt"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Burial: Banquet of Lightning",
+        "url": "/wiki/Lightning_Burial:_Banquet_of_Lightning"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #4, Naruto Chapter #30",
+            "appears_in": "Anime, Manga, Game, Movie"
+        },
+        "name": "Lightning Cutter",
+        "url": "/wiki/Lightning_Cutter"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu, Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Cutter Combo",
+        "url": "/wiki/Lightning_Cutter_Combo"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Cutter One Flash",
+        "url": "/wiki/Lightning_Cutter_One_Flash"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Cutter Two Sequential Crashes",
+        "url": "/wiki/Lightning_Cutter_Two_Sequential_Crashes"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "nature": " Lightning Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/5/52/Nature_Icon_Earth.svg/revision/latest/scale-to-width-down/18?cb=20091012162502\" \t alt=\"Nature Icon Earth\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Earth.svg\" \tdata-image-name=\"Nature Icon Earth.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Earth Release",
+            "class": "Offensive"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Cutter: Double Lightning Quake",
+        "url": "/wiki/Lightning_Cutter:_Double_Lightning_Quake"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Cutter: One Apex",
+        "url": "/wiki/Lightning_Cutter:_One_Apex"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Ninjutsu, Dōjutsu, Space–Time Ninjutsu, Barrier Ninjutsu, Shurikenjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Cutter: Swift",
+        "url": "/wiki/Lightning_Cutter:_Swift"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Cutter: Twin Drilling Lights",
+        "url": "/wiki/Lightning_Cutter:_Twin_Drilling_Lights"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Dragon Tornado",
+        "url": "/wiki/Lightning_Dragon_Tornado"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Fish",
+        "url": "/wiki/Lightning_Fish"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow, Shurikenjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #42, Naruto Chapter #387",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Flash",
+        "url": "/wiki/Lightning_Flash"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Flash (Game)",
+        "url": "/wiki/Lightning_Flash_(Game)"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Flash Lion Combo",
+        "url": "/wiki/Lightning_Flash_Lion_Combo"
+    },
+    {
+        "data": {
+            "classification": "Nintaijutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #49, Naruto Chapter #463",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Oppression Horizontal",
+        "url": "/wiki/Lightning_Oppression_Horizontal"
+    },
+    {
+        "data": {
+            "classification": "Nintaijutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #59, Naruto Chapter #563",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Oppression Horizontal Chop",
+        "url": "/wiki/Lightning_Oppression_Horizontal_Chop"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Rat Violent Quake",
+        "url": "/wiki/Lightning_Rat_Violent_Quake"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "manga": "Volume #1, Boruto Chapter #3",
+            "appears_in": "Anime, Manga, Novel, Movie"
+        },
+        "name": "Lightning Release Bullet: Powerful Breath",
+        "url": "/wiki/Lightning_Release_Bullet:_Powerful_Breath"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow",
+            "nature": " Lightning Release",
+            "class": "Offensive, Defensive, Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #49, Naruto Chapter #460",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Release Chakra Mode",
+        "url": "/wiki/Lightning_Release_Chakra_Mode"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu, Cooperation Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release Co-Operation: Thunder Bomb",
+        "url": "/wiki/Lightning_Release_Co-Operation:_Thunder_Bomb"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Barrier Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive, Defensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Release Wall",
+        "url": "/wiki/Lightning_Release_Wall"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #56, Naruto Chapter #526",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Release: Black Panther",
+        "url": "/wiki/Lightning_Release:_Black_Panther"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Depth Charge",
+        "url": "/wiki/Lightning_Release:_Depth_Charge"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu, Collaboration Techniques",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #50, Naruto Chapter #473",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Release: Double Lariat",
+        "url": "/wiki/Lightning_Release:_Double_Lariat"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Lightning Release: Electric Shock Needles",
+        "url": "/wiki/Lightning_Release:_Electric_Shock_Needles"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Electromagnetic Murder",
+        "url": "/wiki/Lightning_Release:_Electromagnetic_Murder"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #37, Naruto Chapter #334",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Release: False Darkness",
+        "url": "/wiki/Lightning_Release:_False_Darkness"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #46, Naruto Chapter #425",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Lightning Release: Four Pillar Bind",
+        "url": "/wiki/Lightning_Release:_Four_Pillar_Bind"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #45, Naruto Chapter #413",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Release: Lariat",
+        "url": "/wiki/Lightning_Release:_Lariat"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #45, Naruto Chapter #421",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Release: Lightning Beast Tracking Fang",
+        "url": "/wiki/Lightning_Release:_Lightning_Beast_Tracking_Fang"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Lightning Fang",
+        "url": "/wiki/Lightning_Release:_Lightning_Fang"
+    },
+    {
+        "data": {
+            "classification": "Genjutsu",
+            "nature": " Lightning Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/d/de/Nature_Icon_Yin.svg/revision/latest/scale-to-width-down/18?cb=20100916093714\" \t alt=\"Nature Icon Yin\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Yin.svg\" \tdata-image-name=\"Nature Icon Yin.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Yin Release",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #49, Naruto Chapter #461",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Release: Lightning Illusion Flash of Lightning Pillar",
+        "url": "/wiki/Lightning_Release:_Lightning_Illusion_Flash_of_Lightning_Pillar"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Release: Lightning Quake Flash",
+        "url": "/wiki/Lightning_Release:_Lightning_Quake_Flash"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Lightning Rod",
+        "url": "/wiki/Lightning_Release:_Lightning_Rod"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive, Supplementary",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Lightning Release: Lightning Signal Fire",
+        "url": "/wiki/Lightning_Release:_Lightning_Signal_Fire"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow, Kenjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Release: Lightning Violent Soak",
+        "url": "/wiki/Lightning_Release:_Lightning_Violent_Soak"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow",
+            "nature": " Lightning Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Overdrive",
+        "url": "/wiki/Lightning_Release:_Overdrive"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow, Bukijutsu",
+            "nature": " Lightning Release",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Pulverizing Lightning Rod",
+        "url": "/wiki/Lightning_Release:_Pulverizing_Lightning_Rod"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #6, Boruto Chapter #21",
+            "appears_in": "Anime, Manga, Novel, Game"
+        },
+        "name": "Lightning Release: Purple Electricity",
+        "url": "/wiki/Lightning_Release:_Purple_Electricity"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow, Kenjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Release: Reverse Lift",
+        "url": "/wiki/Lightning_Release:_Reverse_Lift"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Clone Techniques",
+            "nature": " Lightning Release",
+            "class": "Offensive, Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #45, Naruto Chapter #422",
+            "appears_in": "Anime, Manga, Novel"
+        },
+        "name": "Lightning Release: Shadow Clone Technique",
+        "url": "/wiki/Lightning_Release:_Shadow_Clone_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Sixteen Pillar Bind",
+        "url": "/wiki/Lightning_Release:_Sixteen_Pillar_Bind"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive, Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #11, Boruto Chapter #40",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Lightning Release: Snake Lightning",
+        "url": "/wiki/Lightning_Release:_Snake_Lightning"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Spider Web",
+        "url": "/wiki/Lightning_Release:_Spider_Web"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Lightning Release: Thunder",
+        "url": "/wiki/Lightning_Release:_Thunder"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Barrier Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Defensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Thunder Binding",
+        "url": "/wiki/Lightning_Release:_Thunder_Binding"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Lightning Release: Thunder Gate",
+        "url": "/wiki/Lightning_Release:_Thunder_Gate"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Thunderbolt",
+        "url": "/wiki/Lightning_Release:_Thunderbolt"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #5, Boruto Chapter #16",
+            "appears_in": "Manga"
+        },
+        "name": "Lightning Release: Thunderclap Arrow",
+        "url": "/wiki/Lightning_Release:_Thunderclap_Arrow"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Thunderstorm",
+        "url": "/wiki/Lightning_Release:_Thunderstorm"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Barrier Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Defensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Lightning Release: Tiger Scissors",
+        "url": "/wiki/Lightning_Release:_Tiger_Scissors"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/a/ab/Nature_Icon_Water.svg/revision/latest/scale-to-width-down/18?cb=20091012165923\" \t alt=\"Nature Icon Water\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Water.svg\" \tdata-image-name=\"Nature Icon Water.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Water Release",
+            "class": "Offensive",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "manga": "Volume #49, Naruto Chapter #461",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Release: Wave of Inspiration",
+        "url": "/wiki/Lightning_Release:_Wave_of_Inspiration"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Release: Whip Dance of Fools",
+        "url": "/wiki/Lightning_Release:_Whip_Dance_of_Fools"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Speed (Kakashi)",
+        "url": "/wiki/Lightning_Speed_(Kakashi)"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Space–Time Ninjutsu, Taijutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Speed (Minato)",
+        "url": "/wiki/Lightning_Speed_(Minato)"
+    },
+    {
+        "data": {
+            "classification": "Nintaijutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #57, Naruto Chapter #542",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Straight",
+        "url": "/wiki/Lightning_Straight"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Strike",
+        "url": "/wiki/Lightning_Strike"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive, Defensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Lightning Strike Armour",
+        "url": "/wiki/Lightning_Strike_Armour"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu, Kenjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Sword",
+        "url": "/wiki/Lightning_Sword"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Tackle",
+        "url": "/wiki/Lightning_Tackle"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Thrust",
+        "url": "/wiki/Lightning_Thrust"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Ninjutsu, Clone Techniques",
+            "nature": " Lightning Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #60, Naruto Chapter #568",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Lightning Transmission",
+        "url": "/wiki/Lightning_Transmission"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu",
+            "nature": " Water Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/a/a3/Nature_Icon_Lightning.svg/revision/latest/scale-to-width-down/18?cb=20091021173339\" \t alt=\"Nature Icon Lightning\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Lightning.svg\" \tdata-image-name=\"Nature Icon Lightning.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Lightning Release",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "manga": "Volume #62, Naruto Chapter #588",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Lightning Water Dragon Bullet",
+        "url": "/wiki/Lightning_Water_Dragon_Bullet"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu, Cooperation Ninjutsu",
+            "nature": " Lightning Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/2/2c/Nature_Icon_Wood.svg/revision/latest/scale-to-width-down/18?cb=20091012120805\" \t alt=\"Nature Icon Wood\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Wood.svg\" \tdata-image-name=\"Nature Icon Wood.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Wood Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lightning Wood Flow Palm",
+        "url": "/wiki/Lightning_Wood_Flow_Palm"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Ninjutsu, Dōjutsu, Clone Techniques",
+            "class": "Offensive, Defensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #69, Naruto Chapter #659",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Limbo: Border Jail",
+        "url": "/wiki/Limbo:_Border_Jail"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Limelight",
+        "url": "/wiki/Limelight"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #8, Naruto Chapter #68",
+            "appears_in": "Anime, Manga, Game, Movie"
+        },
+        "name": "Lion Combo",
+        "url": "/wiki/Lion_Combo"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu, Kenjutsu, Chakra Flow",
+            "nature": " Lightning Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/b/bf/Nature_Icon_Fire.svg/revision/latest/scale-to-width-down/18?cb=20091012120333\" \t alt=\"Nature Icon Fire\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Fire.svg\" \tdata-image-name=\"Nature Icon Fire.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Fire Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Lion Flame Bullet",
+        "url": "/wiki/Lion_Flame_Bullet"
+    },
+    {
+        "data": {
+            "classification": "Kinjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #62, Naruto Chapter #592",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Little Toe Attack",
+        "url": "/wiki/Little_Toe_Attack"
+    },
+    {
+        "data": {
+            "classification": "Kinjutsu, Ninjutsu, Reincarnation Ninjutsu",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #22, Naruto Chapter #199",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Living Corpse Reincarnation",
+        "url": "/wiki/Living_Corpse_Reincarnation"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Ninjutsu, Dōjutsu, Chakra Absorption Techniques",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Novel, Game, Movie"
+        },
+        "name": "Localised Reincarnation Explosion",
+        "url": "/wiki/Localised_Reincarnation_Explosion"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "class": "Supplementary",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Long Range Mind's Eye of the Kagura",
+        "url": "/wiki/Long_Range_Mind%27s_Eye_of_the_Kagura"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Long-Distance Bombing",
+        "url": "/wiki/Long-Distance_Bombing"
+    },
+    {
+        "data": {
+            "classification": "Kenjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Longsword Ninja Art — Earth Spider Sewing",
+        "url": "/wiki/Longsword_Ninja_Art_%E2%80%94_Earth_Spider_Sewing"
+    },
+    {
+        "data": {
+            "classification": "Kenjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Longsword Ninja Art: Wire Crucifixion",
+        "url": "/wiki/Longsword_Ninja_Art:_Wire_Crucifixion"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Lorentz Gun",
+        "url": "/wiki/Lorentz_Gun"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Love Roar",
+        "url": "/wiki/Love_Roar"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #27, Naruto Chapter #238",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Magic Lantern Body Technique",
+        "url": "/wiki/Magic_Lantern_Body_Technique"
+    },
+    {
+        "data": {
+            "classification": "Fighting Style, Ninjutsu",
+            "class": "Offensive, Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Magnet Ninja Art",
+        "url": "/wiki/Magnet_Ninja_Art"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Magnet Ninja Art: Electromagnetic Vision",
+        "url": "/wiki/Magnet_Ninja_Art:_Electromagnetic_Vision"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Magnet Ninja Art: Infinite Meteors",
+        "url": "/wiki/Magnet_Ninja_Art:_Infinite_Meteors"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu, Shurikenjutsu",
+            "nature": " Magnet Release",
+            "class": "Offensive, Supplementary",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "manga": "Volume #58, Naruto Chapter #546",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Magnet Release: Conserving Bee Twin Blades",
+        "url": "/wiki/Magnet_Release:_Conserving_Bee_Twin_Blades"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu",
+            "nature": " Magnet Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #58, Naruto Chapter #546",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Magnet Release: Gold Dust Imperial Funeral",
+        "url": "/wiki/Magnet_Release:_Gold_Dust_Imperial_Funeral"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu",
+            "nature": " Magnet Release",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Magnet Release: Gold Dust Imperial Funeral Sending",
+        "url": "/wiki/Magnet_Release:_Gold_Dust_Imperial_Funeral_Sending"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu",
+            "nature": " Magnet Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/a/a3/Nature_Icon_Lightning.svg/revision/latest/scale-to-width-down/18?cb=20091021173339\" \t alt=\"Nature Icon Lightning\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Lightning.svg\" \tdata-image-name=\"Nature Icon Lightning.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Lightning Release",
+            "class": "Offensive, Defensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Magnet Release: Lightning God Self",
+        "url": "/wiki/Magnet_Release:_Lightning_God_Self"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive, Defensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Mail Manipulation Technique",
+        "url": "/wiki/Mail_Manipulation_Technique"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Ninjutsu, Dōjutsu",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #65, Naruto Chapter #621",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Majestic Attire: Susanoo",
+        "url": "/wiki/Majestic_Attire:_Susanoo"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Genjutsu, Dōjutsu",
+            "nature": " Yin Release",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Mangekyō Sharingan (jutsu)",
+        "url": "/wiki/Mangeky%C5%8D_Sharingan_(jutsu)"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Genjutsu, Collaboration Techniques, Kenjutsu, Dōjutsu",
+            "nature": " Yin Release",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Mangekyō Shark Sword",
+        "url": "/wiki/Mangeky%C5%8D_Shark_Sword"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #39, Naruto Chapter #358",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Manipulated Shuriken Technique",
+        "url": "/wiki/Manipulated_Shuriken_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Manipulated Shuriken Wire Binding",
+        "url": "/wiki/Manipulated_Shuriken_Wire_Binding"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Manipulated Tools: Binding Meteor",
+        "url": "/wiki/Manipulated_Tools:_Binding_Meteor"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Blade Kick",
+        "url": "/wiki/Manipulated_Tools:_Blade_Kick"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Deadly Spheres Strike",
+        "url": "/wiki/Manipulated_Tools:_Deadly_Spheres_Strike"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Exploding Sphere",
+        "url": "/wiki/Manipulated_Tools:_Exploding_Sphere"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Floating Blade Wall",
+        "url": "/wiki/Manipulated_Tools:_Floating_Blade_Wall"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Gigantic Iron Ball",
+        "url": "/wiki/Manipulated_Tools:_Gigantic_Iron_Ball"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Great Iron Lump",
+        "url": "/wiki/Manipulated_Tools:_Great_Iron_Lump"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Manipulated Tools: Heavenly Chain Disaster",
+        "url": "/wiki/Manipulated_Tools:_Heavenly_Chain_Disaster"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Heavenly Steel Disaster",
+        "url": "/wiki/Manipulated_Tools:_Heavenly_Steel_Disaster"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: One Thousand Blades Attack",
+        "url": "/wiki/Manipulated_Tools:_One_Thousand_Blades_Attack"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Spinning Swallow Show",
+        "url": "/wiki/Manipulated_Tools:_Spinning_Swallow_Show"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu, Bukijutsu",
+            "class": "Offensive"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Steel Needles Wild Flower",
+        "url": "/wiki/Manipulated_Tools:_Steel_Needles_Wild_Flower"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Ten Thousand Wild Heavenly Blades",
+        "url": "/wiki/Manipulated_Tools:_Ten_Thousand_Wild_Heavenly_Blades"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulated Tools: Thousand Blades Attack Performance",
+        "url": "/wiki/Manipulated_Tools:_Thousand_Blades_Attack_Performance"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #15, Naruto Chapter #130",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Manipulating Attack Blades",
+        "url": "/wiki/Manipulating_Attack_Blades"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Manipulating Attack Blades Explosion",
+        "url": "/wiki/Manipulating_Attack_Blades_Explosion"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "manga": "Volume #6, Naruto Chapter #49",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Manipulating Windmill Triple Blades",
+        "url": "/wiki/Manipulating_Windmill_Triple_Blades"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Space–Time Ninjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #33, Naruto Chapter #290",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Many Hidden Shadow Snake Hands",
+        "url": "/wiki/Many_Hidden_Shadow_Snake_Hands"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Maximum Entry",
+        "url": "/wiki/Maximum_Entry"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "May Rain Blood River",
+        "url": "/wiki/May_Rain_Blood_River"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu",
+            "nature": " Wood Release",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #26, Naruto Chapter #234",
+            "appears_in": "Anime, Manga, Game, Movie"
+        },
+        "name": "Mayfly",
+        "url": "/wiki/Mayfly"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu",
+            "nature": " Wood Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Mayfly: Antlion",
+        "url": "/wiki/Mayfly:_Antlion"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Mechanical Eight Trigrams Formation",
+        "url": "/wiki/Mechanical_Eight_Trigrams_Formation"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #30, Naruto Chapter #268",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mechanical Light Shield Block",
+        "url": "/wiki/Mechanical_Light_Shield_Block"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Mechanism Three Edge",
+        "url": "/wiki/Mechanism_Three_Edge"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu, Collaboration Techniques",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Medical Empress Gambler",
+        "url": "/wiki/Medical_Empress_Gambler"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Medical Ninjutsu",
+            "class": "Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Medical Mode",
+        "url": "/wiki/Medical_Mode"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Medical Ninjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Medical Ninjutsu: Strong Flash",
+        "url": "/wiki/Medical_Ninjutsu:_Strong_Flash"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Medical Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Medical Technique: Triple Unity of Death",
+        "url": "/wiki/Medical_Technique:_Triple_Unity_of_Death"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Medical Ninjutsu, Regeneration Techniques",
+            "nature": " Water Release",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Medical Water Release: Jellyfish",
+        "url": "/wiki/Medical_Water_Release:_Jellyfish"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Medical Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Medical Water Release: Water Mosquito",
+        "url": "/wiki/Medical_Water_Release:_Water_Mosquito"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Medical Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Medical Water Release: Water Scorpion",
+        "url": "/wiki/Medical_Water_Release:_Water_Scorpion"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Medullary Cut",
+        "url": "/wiki/Medullary_Cut"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Hiden",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Memory Blocking Technique",
+        "url": "/wiki/Memory_Blocking_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Memory Erasing Seal",
+        "url": "/wiki/Memory_Erasing_Seal"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Memory Erasing Technique",
+        "url": "/wiki/Memory_Erasing_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #28, Naruto Chapter #247",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Memory-Concealing Manipulative Sand Technique",
+        "url": "/wiki/Memory-Concealing_Manipulative_Sand_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Menacing Shark",
+        "url": "/wiki/Menacing_Shark"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Mental Replacement Device",
+        "url": "/wiki/Mental_Replacement_Device"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Middle-Aged Attack",
+        "url": "/wiki/Middle-Aged_Attack"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Might Cyclone",
+        "url": "/wiki/Might_Cyclone"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "class": "Offensive, Defensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Mimetic Insects: Crawl",
+        "url": "/wiki/Mimetic_Insects:_Crawl"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "class": "Offensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Mind Body Confusion Technique",
+        "url": "/wiki/Mind_Body_Confusion_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "class": "Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #16, Naruto Chapter #137",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mind Body Disturbance Technique",
+        "url": "/wiki/Mind_Body_Disturbance_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #5, Naruto Chapter #42",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Mind Body Switch Technique",
+        "url": "/wiki/Mind_Body_Switch_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #46, Naruto Chapter #426",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Mind Body Transmission Technique",
+        "url": "/wiki/Mind_Body_Transmission_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu, Clone Techniques",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #56, Naruto Chapter #534",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mind Clone Switch Technique",
+        "url": "/wiki/Mind_Clone_Switch_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Mind Disturbance Dance Performance Technique",
+        "url": "/wiki/Mind_Disturbance_Dance_Performance_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu, Juinjutsu",
+            "class": "Offensive, Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #50, Naruto Chapter #469",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mind Puppet Switch Cursed Seal Technique",
+        "url": "/wiki/Mind_Puppet_Switch_Cursed_Seal_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #39, Naruto Chapter #350",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mind's Eye of the Kagura",
+        "url": "/wiki/Mind%27s_Eye_of_the_Kagura"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu, Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Mingling Arm Flying Thrust",
+        "url": "/wiki/Mingling_Arm_Flying_Thrust"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kinjutsu",
+            "nature": " Wind Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #58, Naruto Chapter #545",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mini-Rasenshuriken",
+        "url": "/wiki/Mini-Rasenshuriken"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #30, Naruto Chapter #263",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mirrored Sudden Attacker Technique",
+        "url": "/wiki/Mirrored_Sudden_Attacker_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Missile",
+        "url": "/wiki/Missile"
+    },
+    {
+        "data": {
+            "classification": "Genjutsu, Clone Techniques",
+            "nature": " Yin Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #7, Naruto Chapter #61",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mist Servant Technique",
+        "url": "/wiki/Mist_Servant_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu",
+            "nature": " Earth Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/b/bf/Nature_Icon_Fire.svg/revision/latest/scale-to-width-down/18?cb=20091012120333\" \t alt=\"Nature Icon Fire\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Fire.svg\" \tdata-image-name=\"Nature Icon Fire.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Fire Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Molten Earth Wild Eruption Technique",
+        "url": "/wiki/Molten_Earth_Wild_Eruption_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Fire Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Monkey Flame Arson",
+        "url": "/wiki/Monkey_Flame_Arson"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Earth Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/b/bf/Nature_Icon_Fire.svg/revision/latest/scale-to-width-down/18?cb=20091012120333\" \t alt=\"Nature Icon Fire\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Fire.svg\" \tdata-image-name=\"Nature Icon Fire.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Fire Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #3, Boruto Chapter #8",
+            "appears_in": "Anime, Manga, Game, Movie"
+        },
+        "name": "Monkey Rock",
+        "url": "/wiki/Monkey_Rock"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #28, Naruto Chapter #248",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Monstrous Sand Arm",
+        "url": "/wiki/Monstrous_Sand_Arm"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Monstrous Sand Arm: Breakthrough",
+        "url": "/wiki/Monstrous_Sand_Arm:_Breakthrough"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Monstrous Sand Arm: Gripping Crush",
+        "url": "/wiki/Monstrous_Sand_Arm:_Gripping_Crush"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Clone Techniques",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Moon Shadow Technique",
+        "url": "/wiki/Moon_Shadow_Technique"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu, Kenjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #44, Naruto Chapter #411",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Moonlight",
+        "url": "/wiki/Moonlight"
+    },
+    {
+        "data": {
+            "classification": "Kinjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #29, Naruto Chapter #258",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Morning Peacock",
+        "url": "/wiki/Morning_Peacock"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Hiden, Ninjutsu",
+            "nature": " Explosion Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/5/52/Nature_Icon_Earth.svg/revision/latest/scale-to-width-down/18?cb=20091012162502\" \t alt=\"Nature Icon Earth\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Earth.svg\" \tdata-image-name=\"Nature Icon Earth.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Earth Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Moulded Beauty",
+        "url": "/wiki/Moulded_Beauty"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Mountain Face",
+        "url": "/wiki/Mountain_Face"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Fire Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #59, Naruto Chapter #565",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mouse Hairball",
+        "url": "/wiki/Mouse_Hairball"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu",
+            "nature": " Mud Release"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Mud Release: Bottomless Mud Hole",
+        "url": "/wiki/Mud_Release:_Bottomless_Mud_Hole"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu",
+            "nature": " Mud Release"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Mud Release: Landslide",
+        "url": "/wiki/Mud_Release:_Landslide"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu",
+            "nature": " Mud Release"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Mud Release: Mud Doll",
+        "url": "/wiki/Mud_Release:_Mud_Doll"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu",
+            "nature": " Mud Release",
+            "class": "Offensive"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Mud Release: Muddy Water Wall",
+        "url": "/wiki/Mud_Release:_Muddy_Water_Wall"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Earth Release",
+            "class": "Offensive",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Mudshot Technique",
+        "url": "/wiki/Mudshot_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Yang Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #7, Naruto Chapter #55",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Multi-Size Technique",
+        "url": "/wiki/Multi-Size_Technique"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Taijutsu, Collaboration Techniques",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #23, Naruto Chapter #203",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Multiple Connected Feet",
+        "url": "/wiki/Multiple_Connected_Feet"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Taijutsu, Collaboration Techniques",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #23, Naruto Chapter #200",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Multiple Connected Fists",
+        "url": "/wiki/Multiple_Connected_Fists"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Taijutsu, Ninjutsu, Space–Time Ninjutsu, Cooperation Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Multiple Connected Fists: Rakshasa",
+        "url": "/wiki/Multiple_Connected_Fists:_Rakshasa"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Taijutsu, Collaboration Techniques",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Multiple Connected Whirlwinds",
+        "url": "/wiki/Multiple_Connected_Whirlwinds"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu, Barrier Ninjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Multiple Infinite Embraces",
+        "url": "/wiki/Multiple_Infinite_Embraces"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Ninjutsu, Senjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #49, Naruto Chapter #462",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Multiple Lotus Nonself Connected Cannons",
+        "url": "/wiki/Multiple_Lotus_Nonself_Connected_Cannons"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu, Cooperation Ninjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Multiple Phantom Shuriken",
+        "url": "/wiki/Multiple_Phantom_Shuriken"
+    },
+    {
+        "data": {
+            "classification": "Kinjutsu, Ninjutsu, Clone Techniques",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #1, Naruto Chapter #1",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Multiple Shadow Clone Technique",
+        "url": "/wiki/Multiple_Shadow_Clone_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kinjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Multiple Shadows Attack Combo",
+        "url": "/wiki/Multiple_Shadows_Attack_Combo"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Clone Techniques",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Multiple Smoke Clone",
+        "url": "/wiki/Multiple_Smoke_Clone"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Barrier Ninjutsu, Fūinjutsu, Cooperation Ninjutsu",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Multiple String Light Formation",
+        "url": "/wiki/Multiple_String_Light_Formation"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Ninjutsu, Clone Techniques",
+            "nature": " Wood Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #61, Naruto Chapter #578",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Multiple Wood Release Clone Technique",
+        "url": "/wiki/Multiple_Wood_Release_Clone_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Murderous Grasp",
+        "url": "/wiki/Murderous_Grasp"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kinjutsu, Bukijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #67, Naruto Chapter #639",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Mutually Multiplying Explosive Tags",
+        "url": "/wiki/Mutually_Multiplying_Explosive_Tags"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu, Kinjutsu, Fighting Style",
+            "class": "Offensive, Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Mysterious Peacock Method",
+        "url": "/wiki/Mysterious_Peacock_Method"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu",
+            "nature": " Water Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/7/7a/Nature_Icon_Wind.svg/revision/latest/scale-to-width-down/18?cb=20091012163149\" \t alt=\"Nature Icon Wind\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Wind.svg\" \tdata-image-name=\"Nature Icon Wind.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Wind Release",
+            "class": "Offensive"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Mysterious Storm Technique",
+        "url": "/wiki/Mysterious_Storm_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu",
+            "class": "Offensive, Supplementary"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Mystic Safety Bell Seal: Release",
+        "url": "/wiki/Mystic_Safety_Bell_Seal:_Release"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Medical Ninjutsu",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #7, Naruto Chapter #63",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Mystical Palm Technique",
+        "url": "/wiki/Mystical_Palm_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Nadeshiko-Style Deep Crimson Dance Performance",
+        "url": "/wiki/Nadeshiko-Style_Deep_Crimson_Dance_Performance"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow",
+            "nature": " Wind Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Nadeshiko-Style Hardliner Gale Fist",
+        "url": "/wiki/Nadeshiko-Style_Hardliner_Gale_Fist"
+    }
+]

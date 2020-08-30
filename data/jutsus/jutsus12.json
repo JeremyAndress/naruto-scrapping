@@ -1,0 +1,2570 @@
+[
+    {
+        "data": {
+            "classification": "Ninjutsu, Barrier Ninjutsu",
+            "nature": " Fire Release",
+            "class": "Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #62, Naruto Chapter #596",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Uchiha Flame Formation",
+        "url": "/wiki/Uchiha_Flame_Formation"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu, Chakra Absorption Techniques",
+            "nature": " Wind Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #62, Naruto Chapter #594",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Uchiha Return",
+        "url": "/wiki/Uchiha_Return"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu, Taijutsu",
+            "nature": " Fire Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/a/a3/Nature_Icon_Lightning.svg/revision/latest/scale-to-width-down/18?cb=20091021173339\" \t alt=\"Nature Icon Lightning\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Lightning.svg\" \tdata-image-name=\"Nature Icon Lightning.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Uchiha Shuriken Formation: Spring Lightning",
+        "url": "/wiki/Uchiha_Shuriken_Formation:_Spring_Lightning"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow, Kenjutsu",
+            "nature": " Fire Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Uchiha Style: Dance of the Sun Halo",
+        "url": "/wiki/Uchiha_Style:_Dance_of_the_Sun_Halo"
+    },
+    {
+        "data": {
+            "classification": "Kekkei Genkai, Hiden, Ninjutsu",
+            "nature": " Explosion Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/5/52/Nature_Icon_Earth.svg/revision/latest/scale-to-width-down/18?cb=20091012162502\" \t alt=\"Nature Icon Earth\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Earth.svg\" \tdata-image-name=\"Nature Icon Earth.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Earth Release",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Ultimate Art (game)",
+        "url": "/wiki/Ultimate_Art_(game)"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu, Jujutsu, Kinjutsu, Bukijutsu, Cooperation Ninjutsu",
+            "nature": " Fire Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/a/a3/Nature_Icon_Lightning.svg/revision/latest/scale-to-width-down/18?cb=20091021173339\" \t alt=\"Nature Icon Lightning\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Lightning.svg\" \tdata-image-name=\"Nature Icon Lightning.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Lightning Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/7/7a/Nature_Icon_Wind.svg/revision/latest/scale-to-width-down/18?cb=20091012163149\" \t alt=\"Nature Icon Wind\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Wind.svg\" \tdata-image-name=\"Nature Icon Wind.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Wind Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Ultimate Death Beyond Terror",
+        "url": "/wiki/Ultimate_Death_Beyond_Terror"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Ultimate Poison Scattering",
+        "url": "/wiki/Ultimate_Poison_Scattering"
+    },
+    {
+        "data": {
+            "classification": "Kinjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Ultimate Reverse Lotus",
+        "url": "/wiki/Ultimate_Reverse_Lotus"
+    },
+    {
+        "data": {
+            "classification": "Genjutsu, Dōjutsu",
+            "nature": " Yin Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Ultimate Summoning Beast's Genjutsu",
+        "url": "/wiki/Ultimate_Summoning_Beast%27s_Genjutsu"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Ultimately Hard Absolute Attack: Sand Waterfall Spear Interment",
+        "url": "/wiki/Ultimately_Hard_Absolute_Attack:_Sand_Waterfall_Spear_Interment"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Ultimately Hard Absolute Attack: Spear of Shukaku",
+        "url": "/wiki/Ultimately_Hard_Absolute_Attack:_Spear_of_Shukaku"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #24, Naruto Chapter #216",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Ultimately Hard Absolute Defence: Shield of Shukaku",
+        "url": "/wiki/Ultimately_Hard_Absolute_Defence:_Shield_of_Shukaku"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #41, Naruto Chapter #377",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Ultra-Big Ball Rasengan",
+        "url": "/wiki/Ultra-Big_Ball_Rasengan"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Regeneration Techniques",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Ultra-Fast Regeneration Technique",
+        "url": "/wiki/Ultra-Fast_Regeneration_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kinjutsu, Clone Techniques",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #53, Naruto Chapter #499",
+            "appears_in": "Anime, Manga, Game, Movie"
+        },
+        "name": "Ultra-Many Spiralling Serial Spheres",
+        "url": "/wiki/Ultra-Many_Spiralling_Serial_Spheres"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Ultra-Viscous Slime Battering Ram",
+        "url": "/wiki/Ultra-Viscous_Slime_Battering_Ram"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Uncontrollable Power",
+        "url": "/wiki/Uncontrollable_Power"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Unite",
+        "url": "/wiki/Unite"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Ninjutsu, Dōjutsu, Space–Time Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Unknown Ability",
+        "url": "/wiki/Unknown_Ability"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu, General skill, Fighting Style",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #21, Naruto Chapter #184",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Unsealing Technique",
+        "url": "/wiki/Unsealing_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Unsealing Technique: Paper Snowstorm",
+        "url": "/wiki/Unsealing_Technique:_Paper_Snowstorm"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu",
+            "class": "Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Unsealing Technique: Segmented Iron Dome",
+        "url": "/wiki/Unsealing_Technique:_Segmented_Iron_Dome"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Fūinjutsu, Shurikenjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Unsealing Technique: Shuriken",
+        "url": "/wiki/Unsealing_Technique:_Shuriken"
+    },
+    {
+        "data": {
+            "classification": "Kenjutsu",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Unstoppable Blade Shuriken",
+        "url": "/wiki/Unstoppable_Blade_Shuriken"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Clone Techniques",
+            "class": "Defensive",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Uzumaki Formation",
+        "url": "/wiki/Uzumaki_Formation"
+    },
+    {
+        "data": {
+            "classification": "Fūinjutsu",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #53, Naruto Chapter #500",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Uzumaki Sealing Technique",
+        "url": "/wiki/Uzumaki_Sealing_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow, Kenjutsu",
+            "nature": " Wind Release",
+            "class": "Offensive, Defensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Vacuum Sword",
+        "url": "/wiki/Vacuum_Sword"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #6, Naruto Chapter #50",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Vanishing Facial Copy Technique",
+        "url": "/wiki/Vanishing_Facial_Copy_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Lightning Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #1, Boruto Chapter #2",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Vanishing Rasengan",
+        "url": "/wiki/Vanishing_Rasengan"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu, Taijutsu",
+            "class": "Offensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Very Hiden: Venomous Insect Venom",
+        "url": "/wiki/Very_Hiden:_Venomous_Insect_Venom"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Violent Headspinner",
+        "url": "/wiki/Violent_Headspinner"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Earth Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Violent Heavenly Earth Needle",
+        "url": "/wiki/Violent_Heavenly_Earth_Needle"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Violent Stabbing Face Slap",
+        "url": "/wiki/Violent_Stabbing_Face_Slap"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Wind Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Violent Whirlwind",
+        "url": "/wiki/Violent_Whirlwind"
+    },
+    {
+        "data": {
+            "classification": "Kinjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #60, Naruto Chapter #566",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Violent — Leaf Adamantine-Strength Whirlwind",
+        "url": "/wiki/Violent_%E2%80%94_Leaf_Adamantine-Strength_Whirlwind"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Defensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Viscous Water Mass",
+        "url": "/wiki/Viscous_Water_Mass"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Barrier Ninjutsu, Fūinjutsu, Bukijutsu",
+            "class": "Offensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Watch Your Steps!",
+        "url": "/wiki/Watch_Your_Steps!"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu, Kinjutsu",
+            "nature": " Wind Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/a/a3/Nature_Icon_Lightning.svg/revision/latest/scale-to-width-down/18?cb=20091021173339\" \t alt=\"Nature Icon Lightning\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Lightning.svg\" \tdata-image-name=\"Nature Icon Lightning.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Lightning Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/b/bf/Nature_Icon_Fire.svg/revision/latest/scale-to-width-down/18?cb=20091012120333\" \t alt=\"Nature Icon Fire\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Fire.svg\" \tdata-image-name=\"Nature Icon Fire.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Fire Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Watchful Eye's Torrent",
+        "url": "/wiki/Watchful_Eye%27s_Torrent"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Water Attacking Gorgon",
+        "url": "/wiki/Water_Attacking_Gorgon"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Balloon Technique",
+        "url": "/wiki/Water_Balloon_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime, Novel"
+        },
+        "name": "Water Characters",
+        "url": "/wiki/Water_Characters"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Clone Combo",
+        "url": "/wiki/Water_Clone_Combo"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Clone Techniques",
+            "nature": " Water Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #2, Naruto Chapter #12",
+            "appears_in": "Anime, Manga, Novel, Game"
+        },
+        "name": "Water Clone Technique",
+        "url": "/wiki/Water_Clone_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Dōjutsu",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Droplet Reflection Sight",
+        "url": "/wiki/Water_Droplet_Reflection_Sight"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #59, Naruto Chapter #556",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Gun Technique",
+        "url": "/wiki/Water_Gun_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Gun Technique: One-Hand Magnum",
+        "url": "/wiki/Water_Gun_Technique:_One-Hand_Magnum"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Gun Technique: Two-Handed Magnum",
+        "url": "/wiki/Water_Gun_Technique:_Two-Handed_Magnum"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Gun: Quick Shot",
+        "url": "/wiki/Water_Gun:_Quick_Shot"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #69, Naruto Chapter #663",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Gun: Two Guns",
+        "url": "/wiki/Water_Gun:_Two_Guns"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Hiden, Ninjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Water Needle",
+        "url": "/wiki/Water_Needle"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow, Taijutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Palm Blade",
+        "url": "/wiki/Water_Palm_Blade"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Pillar Thrust",
+        "url": "/wiki/Water_Pillar_Thrust"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #50, Naruto Chapter #472",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Prison Shark Dance Technique",
+        "url": "/wiki/Water_Prison_Shark_Dance_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #2, Naruto Chapter #13",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Prison Technique",
+        "url": "/wiki/Water_Prison_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #1, Boruto Chapter #3",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Water Release Bullet: Orca",
+        "url": "/wiki/Water_Release_Bullet:_Orca"
+    },
+    {
+        "data": {
+            "classification": "Genjutsu, Collaboration Techniques",
+            "nature": " Water Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/d/de/Nature_Icon_Yin.svg/revision/latest/scale-to-width-down/18?cb=20100916093714\" \t alt=\"Nature Icon Yin\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Yin.svg\" \tdata-image-name=\"Nature Icon Yin.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Yin Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release Genjutsu: Demonic Phantom Fog Prison",
+        "url": "/wiki/Water_Release_Genjutsu:_Demonic_Phantom_Fog_Prison"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #54, Naruto Chapter #506",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Water Release: A Thousand Feeding Sharks",
+        "url": "/wiki/Water_Release:_A_Thousand_Feeding_Sharks"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Water Release: Angry Bitter Rain",
+        "url": "/wiki/Water_Release:_Angry_Bitter_Rain"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Water Release: Archerfish",
+        "url": "/wiki/Water_Release:_Archerfish"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Azure Dragon Palm",
+        "url": "/wiki/Water_Release:_Azure_Dragon_Palm"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Black Rain Technique",
+        "url": "/wiki/Water_Release:_Black_Rain_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "manga": "Volume #59, Naruto Chapter #564",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Bubbles Technique",
+        "url": "/wiki/Water_Release:_Bubbles_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Bubbles Technique — Combo",
+        "url": "/wiki/Water_Release:_Bubbles_Technique_%E2%80%94_Combo"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Water Release: Bubbles Technique — Drift",
+        "url": "/wiki/Water_Release:_Bubbles_Technique_%E2%80%94_Drift"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Bubbles Technique — Great River",
+        "url": "/wiki/Water_Release:_Bubbles_Technique_%E2%80%94_Great_River"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Bubbles Technique — Mountain Wind",
+        "url": "/wiki/Water_Release:_Bubbles_Technique_%E2%80%94_Mountain_Wind"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Bubbles Technique — Ripples",
+        "url": "/wiki/Water_Release:_Bubbles_Technique_%E2%80%94_Ripples"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Bubbles Technique — Rise",
+        "url": "/wiki/Water_Release:_Bubbles_Technique_%E2%80%94_Rise"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Bubbles Technique — Twist",
+        "url": "/wiki/Water_Release:_Bubbles_Technique_%E2%80%94_Twist"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Bubbles Technique — Wrap",
+        "url": "/wiki/Water_Release:_Bubbles_Technique_%E2%80%94_Wrap"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Cold Sky Water Attack",
+        "url": "/wiki/Water_Release:_Cold_Sky_Water_Attack"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Drizzle",
+        "url": "/wiki/Water_Release:_Drizzle"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Droplet Spear",
+        "url": "/wiki/Water_Release:_Droplet_Spear"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #29, Naruto Chapter #256",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Exploding Water Colliding Wave",
+        "url": "/wiki/Water_Release:_Exploding_Water_Colliding_Wave"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Falling Rain Needles",
+        "url": "/wiki/Water_Release:_Falling_Rain_Needles"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #29, Naruto Chapter #258",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Five Feeding Sharks",
+        "url": "/wiki/Water_Release:_Five_Feeding_Sharks"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Five Gluttonous Sharks",
+        "url": "/wiki/Water_Release:_Five_Gluttonous_Sharks"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Water Release: Four Sharks Rain",
+        "url": "/wiki/Water_Release:_Four_Sharks_Rain"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "manga": "Volume #50, Naruto Chapter #471",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Water Release: Great Exploding Water Colliding Wave",
+        "url": "/wiki/Water_Release:_Great_Exploding_Water_Colliding_Wave"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Great Gunshot",
+        "url": "/wiki/Water_Release:_Great_Gunshot"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Absorption Techniques",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "manga": "Volume #54, Naruto Chapter #506",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Great Shark Bullet Technique",
+        "url": "/wiki/Water_Release:_Great_Shark_Bullet_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #38, Naruto Chapter #348",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Great Water Arm Technique",
+        "url": "/wiki/Water_Release:_Great_Water_Arm_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu, Taijutsu, Kenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Great Water Arm Technique: Half-Moon Cut",
+        "url": "/wiki/Water_Release:_Great_Water_Arm_Technique:_Half-Moon_Cut"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Great Water Drill",
+        "url": "/wiki/Water_Release:_Great_Water_Drill"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Water Release: Great Water Mass Bullet",
+        "url": "/wiki/Water_Release:_Great_Water_Mass_Bullet"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Great Waterfall Flow Technique",
+        "url": "/wiki/Water_Release:_Great_Waterfall_Flow_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "manga": "Volume #2, Naruto Chapter #15",
+            "appears_in": "Anime, Manga, Novel, Game"
+        },
+        "name": "Water Release: Great Waterfall Technique",
+        "url": "/wiki/Water_Release:_Great_Waterfall_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Great Whirlpool Enfolding Technique",
+        "url": "/wiki/Water_Release:_Great_Whirlpool_Enfolding_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #15, Naruto Chapter #135",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Gunshot",
+        "url": "/wiki/Water_Release:_Gunshot"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Anime, Novel"
+        },
+        "name": "Water Release: Hail",
+        "url": "/wiki/Water_Release:_Hail"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Water Release: Hail Barrage",
+        "url": "/wiki/Water_Release:_Hail_Barrage"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Hard Whirlpool Water Blade",
+        "url": "/wiki/Water_Release:_Hard_Whirlpool_Water_Blade"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Hiding in Drizzle Technique",
+        "url": "/wiki/Water_Release:_Hiding_in_Drizzle_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Hiding in Rain Technique",
+        "url": "/wiki/Water_Release:_Hiding_in_Rain_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "manga": "Volume #2, Naruto Chapter #9",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Hiding in Water Technique",
+        "url": "/wiki/Water_Release:_Hiding_in_Water_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Hydrification Exploding Funeral Technique",
+        "url": "/wiki/Water_Release:_Hydrification_Exploding_Funeral_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Infinite Sharks",
+        "url": "/wiki/Water_Release:_Infinite_Sharks"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Large Projectile",
+        "url": "/wiki/Water_Release:_Large_Projectile"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Shurikenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Water Release: Lotus Light Rupture",
+        "url": "/wiki/Water_Release:_Lotus_Light_Rupture"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Mouth Shot",
+        "url": "/wiki/Water_Release:_Mouth_Shot"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Pillar Encirclement",
+        "url": "/wiki/Water_Release:_Pillar_Encirclement"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Rampaging Water",
+        "url": "/wiki/Water_Release:_Rampaging_Water"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Water Release: Rapid Thunder Whip Technique",
+        "url": "/wiki/Water_Release:_Rapid_Thunder_Whip_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Water Release: Rising Water Slicer",
+        "url": "/wiki/Water_Release:_Rising_Water_Slicer"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Running Water Spear",
+        "url": "/wiki/Water_Release:_Running_Water_Spear"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Running Water Whip",
+        "url": "/wiki/Water_Release:_Running_Water_Whip"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Scattering Bullets Technique",
+        "url": "/wiki/Water_Release:_Scattering_Bullets_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Snake's Mouth",
+        "url": "/wiki/Water_Release:_Snake%27s_Mouth"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #36, Naruto Chapter #326",
+            "appears_in": "Anime, Manga, Novel, Game"
+        },
+        "name": "Water Release: Starch Syrup Capturing Field",
+        "url": "/wiki/Water_Release:_Starch_Syrup_Capturing_Field"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Stormy Blockade",
+        "url": "/wiki/Water_Release:_Stormy_Blockade"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Submerged Shark Scraping Destruction",
+        "url": "/wiki/Water_Release:_Submerged_Shark_Scraping_Destruction"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Surfing Strike",
+        "url": "/wiki/Water_Release:_Surfing_Strike"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #5, Boruto Chapter #16",
+            "appears_in": "Manga"
+        },
+        "name": "Water Release: Surging Sea",
+        "url": "/wiki/Water_Release:_Surging_Sea"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #45, Naruto Chapter #414",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Tate Eboshi",
+        "url": "/wiki/Water_Release:_Tate_Eboshi"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "manga": "Volume #37, Naruto Chapter #337",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Tearing Torrent",
+        "url": "/wiki/Water_Release:_Tearing_Torrent"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Game, Movie"
+        },
+        "name": "Water Release: Torrent Bullet",
+        "url": "/wiki/Water_Release:_Torrent_Bullet"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Water Release: Transform-at-Will",
+        "url": "/wiki/Water_Release:_Transform-at-Will"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Chakra Flow",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Water Release: Water Armour",
+        "url": "/wiki/Water_Release:_Water_Armour"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Water Army Water Demon Technique",
+        "url": "/wiki/Water_Release:_Water_Army_Water_Demon_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Water Release: Water Beast",
+        "url": "/wiki/Water_Release:_Water_Beast"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Water Release: Water Blade Technique",
+        "url": "/wiki/Water_Release:_Water_Blade_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Water Bowl",
+        "url": "/wiki/Water_Release:_Water_Bowl"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #64, Naruto Chapter #612",
+            "appears_in": "Anime, Manga, Novel, Game"
+        },
+        "name": "Water Release: Water Bullet Technique",
+        "url": "/wiki/Water_Release:_Water_Bullet_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #6, Boruto Chapter #22",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Water Colliding Wave",
+        "url": "/wiki/Water_Release:_Water_Colliding_Wave"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Dragon Biting Explosion",
+        "url": "/wiki/Water_Release:_Water_Dragon_Biting_Explosion"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #2, Naruto Chapter #15",
+            "appears_in": "Anime, Manga, Novel, Game, Movie"
+        },
+        "name": "Water Release: Water Dragon Bullet Technique",
+        "url": "/wiki/Water_Release:_Water_Dragon_Bullet_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Dragon Triple Step Technique",
+        "url": "/wiki/Water_Release:_Water_Dragon_Triple_Step_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Water Release: Water Dragon Whip",
+        "url": "/wiki/Water_Release:_Water_Dragon_Whip"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Dragon Whirlpool Technique",
+        "url": "/wiki/Water_Release:_Water_Dragon_Whirlpool_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #16, Naruto Chapter #142",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Water Fang Bullet",
+        "url": "/wiki/Water_Release:_Water_Fang_Bullet"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Water Forge Technique",
+        "url": "/wiki/Water_Release:_Water_Forge_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Defensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #61, Naruto Chapter #577",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Water Release: Water Formation Pillar",
+        "url": "/wiki/Water_Release:_Water_Formation_Pillar"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #14, Naruto Chapter #120",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Water Formation Wall",
+        "url": "/wiki/Water_Release:_Water_Formation_Wall"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Water Release: Water Gun",
+        "url": "/wiki/Water_Release:_Water_Gun"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Water Hail",
+        "url": "/wiki/Water_Release:_Water_Hail"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu, Chakra Flow",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Lock Technique",
+        "url": "/wiki/Water_Release:_Water_Lock_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Mass Crumbling Bullet",
+        "url": "/wiki/Water_Release:_Water_Mass_Crumbling_Bullet"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #59, Naruto Chapter #564",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Water Mirror Technique",
+        "url": "/wiki/Water_Release:_Water_Mirror_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Bukijutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Palm Wave",
+        "url": "/wiki/Water_Release:_Water_Palm_Wave"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Long range (10m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Pillar Method Attack",
+        "url": "/wiki/Water_Release:_Water_Pillar_Method_Attack"
+    },
+    {
+        "data": {
+            "classification": "Kenjutsu, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Quaking Pillar",
+        "url": "/wiki/Water_Release:_Water_Quaking_Pillar"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Severing Slash",
+        "url": "/wiki/Water_Release:_Water_Severing_Slash"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #67, Naruto Chapter #646",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Water Severing Wave",
+        "url": "/wiki/Water_Release:_Water_Severing_Wave"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Shark Blade",
+        "url": "/wiki/Water_Release:_Water_Shark_Blade"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Shark Breakthrough",
+        "url": "/wiki/Water_Release:_Water_Shark_Breakthrough"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #16, Naruto Chapter #141",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Water Shark Bullet Technique",
+        "url": "/wiki/Water_Release:_Water_Shark_Bullet_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Shark Shot Technique",
+        "url": "/wiki/Water_Release:_Water_Shark_Shot_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Space–Time Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Shark Wild Sphere Technique",
+        "url": "/wiki/Water_Release:_Water_Shark_Wild_Sphere_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Shield",
+        "url": "/wiki/Water_Release:_Water_Shield"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Novel"
+        },
+        "name": "Water Release: Water Shuriken",
+        "url": "/wiki/Water_Release:_Water_Shuriken"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Water Spikes",
+        "url": "/wiki/Water_Release:_Water_Spikes"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Water Spirit Wave",
+        "url": "/wiki/Water_Release:_Water_Spirit_Wave"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Water Suicide Bomb",
+        "url": "/wiki/Water_Release:_Water_Suicide_Bomb"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "manga": "Volume #54, Naruto Chapter #514",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Water Trumpet",
+        "url": "/wiki/Water_Release:_Water_Trumpet"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Novel"
+        },
+        "name": "Water Release: Water Weapons",
+        "url": "/wiki/Water_Release:_Water_Weapons"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Novel"
+        },
+        "name": "Water Release: Water Whip",
+        "url": "/wiki/Water_Release:_Water_Whip"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #35, Naruto Chapter #316",
+            "appears_in": "Anime, Manga"
+        },
+        "name": "Water Release: Waterfall Basin Technique",
+        "url": "/wiki/Water_Release:_Waterfall_Basin_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Release: Waterfall Prison",
+        "url": "/wiki/Water_Release:_Waterfall_Prison"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Defensive, Supplementary",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Water Release: Water–Heavens Convergence",
+        "url": "/wiki/Water_Release:_Water%E2%80%93Heavens_Convergence"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #41, Naruto Chapter #374",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Water Release: Wild Bubble Wave",
+        "url": "/wiki/Water_Release:_Wild_Bubble_Wave"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #41, Naruto Chapter #373",
+            "appears_in": "Anime, Manga, Movie"
+        },
+        "name": "Water Release: Wild Water Wave",
+        "url": "/wiki/Water_Release:_Wild_Water_Wave"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Water Release",
+            "class": "Defensive, Supplementary"
+        },
+        "debut": {
+            "appears_in": "Movie"
+        },
+        "name": "Water Replacement",
+        "url": "/wiki/Water_Replacement"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Taijutsu, Space–Time Ninjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Water Retain",
+        "url": "/wiki/Water_Retain"
+    },
+    {
+        "data": {
+            "classification": "General skill"
+        },
+        "debut": {
+            "manga": "Volume #2, Naruto Chapter #12",
+            "appears_in": "Anime, Manga, Game, Movie"
+        },
+        "name": "Water Surface Walking Practice",
+        "url": "/wiki/Water_Surface_Walking_Practice"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Waterfall Binding Sand",
+        "url": "/wiki/Waterfall_Binding_Sand"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "nature": " Water Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Wave Break",
+        "url": "/wiki/Wave_Break"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Wave Transmission Technique",
+        "url": "/wiki/Wave_Transmission_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Waving Pursuit Sand",
+        "url": "/wiki/Waving_Pursuit_Sand"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Waving Sand Waterfall Spread",
+        "url": "/wiki/Waving_Sand_Waterfall_Spread"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu",
+            "class": "Offensive, Defensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Weather Manipulation",
+        "url": "/wiki/Weather_Manipulation"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime, Game"
+        },
+        "name": "Welcoming Approach: Thousand-Armed Murder",
+        "url": "/wiki/Welcoming_Approach:_Thousand-Armed_Murder"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Earth Release",
+            "class": "Offensive, Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Whac-A-Mole Technique",
+        "url": "/wiki/Whac-A-Mole_Technique"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #10, Naruto Chapter #90",
+            "appears_in": "Anime, Manga, Game, Movie"
+        },
+        "name": "Whip of Love",
+        "url": "/wiki/Whip_of_Love"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Space–Time Ninjutsu, Medical Ninjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Whirling Snake Tail",
+        "url": "/wiki/Whirling_Snake_Tail"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Wind Release",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Whirlwind Drop",
+        "url": "/wiki/Whirlwind_Drop"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "nature": " Wind Release",
+            "class": "Offensive",
+            "range": "Mid range (5-10m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Whirlwind Pinching Wall",
+        "url": "/wiki/Whirlwind_Pinching_Wall"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Whirlwind Sweep",
+        "url": "/wiki/Whirlwind_Sweep"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Hiden, Taijutsu",
+            "class": "Offensive"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "White Haze Heavenly Dance",
+        "url": "/wiki/White_Haze_Heavenly_Dance"
+    },
+    {
+        "data": {
+            "classification": "Kenjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "White Light Blade",
+        "url": "/wiki/White_Light_Blade"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "White Secret Technique Secret Art: Collection of Illusions",
+        "url": "/wiki/White_Secret_Technique_Secret_Art:_Collection_of_Illusions"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive, Defensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #31, Naruto Chapter #272",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "White Secret Technique: The Chikamatsu Collection of Ten Puppets",
+        "url": "/wiki/White_Secret_Technique:_The_Chikamatsu_Collection_of_Ten_Puppets"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive, Defensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "White Secret Technique: The Chikamatsu Collection of Ten Puppets: Earth Attack",
+        "url": "/wiki/White_Secret_Technique:_The_Chikamatsu_Collection_of_Ten_Puppets:_Earth_Attack"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short to Mid range (0-10m)"
+        },
+        "debut": {
+            "manga": "Volume #31, Naruto Chapter #273",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "White Secret Technique: The Chikamatsu Collection of Ten Puppets: Heaven Attack",
+        "url": "/wiki/White_Secret_Technique:_The_Chikamatsu_Collection_of_Ten_Puppets:_Heaven_Attack"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kinjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "White Snake",
+        "url": "/wiki/White_Snake"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "White Snake Charmer Technique",
+        "url": "/wiki/White_Snake_Charmer_Technique"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "White Snake Possession",
+        "url": "/wiki/White_Snake_Possession"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Hiden, Taijutsu",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "White Spirit Release",
+        "url": "/wiki/White_Spirit_Release"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu, Ninjutsu",
+            "class": "Offensive",
+            "range": "All ranges"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Whole Body One Shot",
+        "url": "/wiki/Whole_Body_One_Shot"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Wicked Gong Mouth",
+        "url": "/wiki/Wicked_Gong_Mouth"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Wicked Tongue Combo",
+        "url": "/wiki/Wicked_Tongue_Combo"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Medical Ninjutsu",
+            "class": "Supplementary"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Wide Healing",
+        "url": "/wiki/Wide_Healing"
+    },
+    {
+        "data": {
+            "classification": "Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Wild Body Strike",
+        "url": "/wiki/Wild_Body_Strike"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Wild Dance",
+        "url": "/wiki/Wild_Dance"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Offensive, Supplementary",
+            "range": "All ranges"
+        },
+        "debut": {
+            "manga": "Volume #41, Naruto Chapter #374",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Wild Lion's Mane Technique",
+        "url": "/wiki/Wild_Lion%27s_Mane_Technique"
+    },
+    {
+        "data": {
+            "classification": "Hiden, Ninjutsu, Taijutsu",
+            "class": "Offensive",
+            "range": "Mid to Long range (5m+)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Wild Serpent",
+        "url": "/wiki/Wild_Serpent"
+    },
+    {
+        "data": {
+            "classification": "Shurikenjutsu",
+            "class": "Offensive, Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Wild Shuriken Dance",
+        "url": "/wiki/Wild_Shuriken_Dance"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu",
+            "class": "Supplementary",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "manga": "Volume #63, Naruto Chapter #606",
+            "appears_in": "Anime, Manga, Game"
+        },
+        "name": "Will Materialisation",
+        "url": "/wiki/Will_Materialisation"
+    },
+    {
+        "data": {
+            "classification": " Kekkei Genkai, Taijutsu",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Willow",
+        "url": "/wiki/Willow"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Cooperation Ninjutsu",
+            "nature": " Wind Release<img src=\"https://vignette.wikia.nocookie.net/naruto/images/a/a3/Nature_Icon_Lightning.svg/revision/latest/scale-to-width-down/18?cb=20091021173339\" \t alt=\"Nature Icon Lightning\"  \tclass=\"\" \t \tdata-image-key=\"Nature_Icon_Lightning.svg\" \tdata-image-name=\"Nature Icon Lightning.svg\" \t \t width=\"18\"  \t height=\"18\"  \t \t \t \t>Lightning Release",
+            "class": "Offensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Game"
+        },
+        "name": "Wind and Lightning Release: Typhoon Lightning Spiral",
+        "url": "/wiki/Wind_and_Lightning_Release:_Typhoon_Lightning_Spiral"
+    },
+    {
+        "data": {
+            "classification": "Ninjutsu, Kenjutsu",
+            "class": "Defensive",
+            "range": "Short range (0-5m)"
+        },
+        "debut": {
+            "appears_in": "Anime"
+        },
+        "name": "Wind Cutter Technique",
+        "url": "/wiki/Wind_Cutter_Technique"
+    }
+]
