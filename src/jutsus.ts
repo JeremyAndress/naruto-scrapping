@@ -26,16 +26,38 @@ async function next_page(page:any):Promise<boolean>{
             return [false]
         }
     })
-    if (data[0]) await page.goto(data[1],{
-        waitUntil: 'load'
-    });
+    if (data[0]) await page_refresh(page,data[1]);
+    // await page.goto(data[1],{
+    //     waitUntil: 'load'
+    // });
     console.log('data',data)
     return data[0]
 }
 
+async function page_refresh(page:any,url:string){
+    try{
+        await page.goto(url,{
+            waitUntil: 'load'
+        });
+        return true;
+    }catch(error){
+        await page_refresh(page,url);
+    }
+}
+
 async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
     let page = await browser.newPage();
-    await page.goto(`${url}${jutsu.href}`);
+    // try{
+    //     await page.goto(`${url}${jutsu.href}`,{
+    //         waitUntil: 'load'
+    //     });
+    // }catch(Error){
+    //     console.log(`error maldi ${Error}`)
+    //     await page.goto(`${url}${jutsu.href}`,{
+    //         waitUntil: 'load'
+    //     });
+    // }
+    await page_refresh(page,`${url}${jutsu.href}`);
     const info = await page.evaluate(()=>{
         let data: info_jutsus = {};
         let debut_info : DebutInfo = {};
@@ -52,11 +74,11 @@ async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
                     const h3_content = (h3) ? h3.textContent : null
                     if (h3_content === 'Appears in'){
                         const content = deb.querySelector('div.pi-data-value.pi-font') 
-                        debut_info[h3_content] = (content) ? content.textContent : null 
+                        debut_info['appears_in'] = (content) ? content.textContent : null 
                     }
                     if (h3_content === 'Manga'){
                         const content = deb.querySelector('div.pi-data-value.pi-font') 
-                        debut_info[h3_content] = (content) ? content.textContent : null 
+                        debut_info['manga'] = (content) ? content.textContent : null 
                     }
                 }
             }
@@ -67,32 +89,34 @@ async function generate_page_jutsu(jutsu:JutsusBody,url:string,browser:any){
                     const h3_content = (h3) ? h3.textContent: null
                     if (h3_content === 'Classification'){
                         const content = dn.querySelector('div.pi-data-value.pi-font') 
-                        data_info[h3_content] = (content) ? 
+                        data_info['classification'] = (content) ? 
                         content.textContent ?content.textContent.replace(regex,' ') :null
                         : null 
                     }
                     if (h3_content === 'Nature'){
                         const content = dn.querySelector('div.pi-data-value.pi-font') 
-                        data_info[h3_content] = (content) ? 
+                        data_info['nature'] = (content) ? 
                             content.textContent ? content.textContent.replace(regex,' ') :null 
                             : null 
                     }
                     if (h3_content === 'Class'){
                         const content = dn.querySelector('div.pi-data-value.pi-font') 
-                        data_info[h3_content] = (content) ? content.textContent : null 
+                        data_info['class'] = (content) ? content.textContent : null 
                     }
                     if (h3_content === 'Range'){
                         const content = dn.querySelector('div.pi-data-value.pi-font') 
-                        data_info[h3_content] = (content) ? content.textContent : null 
+                        data_info['range'] = (content) ? content.textContent : null 
                     }
                 }
             }
         }
-        data.Data = data_info
-        data.Debut = debut_info
+        data.data = data_info;
+        data.debut = debut_info;
         return data
     })
     console.log(`===${jutsu.href}===`)
+    info.name = jutsu.title;
+    info.url = jutsu.href;
     if(info) console.log(info)
     await page.close();
     return info
@@ -130,11 +154,14 @@ export async function get_all_jutsus(browser_page:any,url:string,debug:boolean =
         console.log(isnext);
     }else{
         let data: JutsusBody[] = await get_jutsus_page(page);
-        for (const item of data.slice(0,2)){
-            let info = await generate_page_jutsu(item,url,browser_page[0]);
-            data_to_json = data_to_json.concat(info);
+        if (attempts != 1){
+            for (const item of data){
+                let info = await generate_page_jutsu(item,url,browser_page[0]);
+                data_to_json = data_to_json.concat(info);
+            }
+            write_json(data_to_json,attempts)
         }
-        write_json(data_to_json,attempts)
+
         attempts++;
         console.log(attempts)
         const isnext:boolean = await next_page(page);

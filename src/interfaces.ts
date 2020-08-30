@@ -1,18 +1,20 @@
 export interface JutsusBody { href: string; title: string }
 
 export interface DebutInfo {
-    'Appears in' ?: string | null,
-    Manga?: string | null
+    appears_in ?: string | null,
+    manga?: string | null
 }
 
 export interface DataInfo {
-    Classification ?: string | null,
-    Nature ?: string | null,
-    Class ?: string | null,
-    Range ?: string | null,
+    classification ?: string | null,
+    nature ?: string | null,
+    class ?: string | null,
+    range ?: string | null,
 }
 
 export interface info_jutsus {
-    Debut ?: DebutInfo | null,
-    Data ?:DataInfo | null
+    name ?: string | null,
+    url ?: string | null,
+    debut ?: DebutInfo | null,
+    data ?:DataInfo | null
 }
