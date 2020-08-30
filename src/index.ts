@@ -9,7 +9,7 @@ moment.locale('es');
     console.log(hoy.format('dddd Do MMMM YYYY'));
     const url = 'https://naruto.fandom.com';
     const gen = await generate_launch(url,'/wiki/Category:Jutsu');
-    const prueba = await get_all_jutsus(gen,url,true);
+    const prueba = await get_all_jutsus(gen,url,false,1);
     //await next_page(gen[1]);
     //await gen[0].close();
 })();
