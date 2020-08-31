@@ -134,14 +134,11 @@ export async function get_all_jutsus(browser_page:any,url:string,debug:boolean =
         console.log(isnext);
     }else{
         let data: JutsusBody[] = await get_jutsus_page(page);
-        if (!([1,2,3,4,5].includes(attempts))){
-            for (const item of data){
-                let info = await generate_page_jutsu(item,url,browser_page[0]);
-                data_to_json = data_to_json.concat(info);
-            }
-            write_json(data_to_json,attempts)
+        for (const item of data){
+            let info = await generate_page_jutsu(item,url,browser_page[0]);
+            data_to_json = data_to_json.concat(info);
         }
-
+        write_json(data_to_json,attempts)
         attempts++;
         console.log(attempts)
         const isnext:boolean = await next_page(page);
