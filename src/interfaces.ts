@@ -1,4 +1,4 @@
-export interface JutsusBody { href: string; title: string }
+export interface TitlesBody { href: string; title: string }
 
 export interface DebutInfo {
     appears_in ?: string | null,

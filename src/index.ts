@@ -1,15 +1,18 @@
 import moment from 'moment';
 import {generate_launch} from '../src/generate_launch';
 import {get_all_jutsus} from '../src/jutsus';
-
+import {get_all_class} from '../src/classification';
 moment.locale('es');
 
 (async ()=>{
     const hoy = moment();
     console.log(hoy.format('dddd Do MMMM YYYY'));
     const url = 'https://naruto.fandom.com';
-    const gen = await generate_launch(url,'/wiki/Category:Jutsu');
-    const prueba = await get_all_jutsus(gen,url,false,1);
-    //await next_page(gen[1]);
-    //await gen[0].close();
+    // jutsus ♠ 
+    // const gen_jutsus = await generate_launch(url,'/wiki/Category:Jutsu');
+    //const jutsus = await get_all_jutsus(gen_jutsus,url,false,1);
+    //await gen_jutsus[0].close();
+    //classification 🦋 
+    const gen_class = await generate_launch(url,'/wiki/Category:Jutsu_Type');
+    const classification = await get_all_class(gen_class,url)
 })();
