@@ -1,4 +1,11 @@
-export interface TitlesBody { href: string; title: string }
+export interface TitlesBody { 
+    href: string,
+    title: string 
+}
+
+export interface ClassF extends TitlesBody{
+    data: string
+}
 
 export interface DebutInfo {
     appears_in ?: string | null,
