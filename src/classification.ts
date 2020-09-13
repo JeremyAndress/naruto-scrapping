@@ -1,3 +1,4 @@
+import * as fs from "fs";
 import {page_refresh} from '../src/utils';
 import {TitlesBody,ClassF} from '../src/interfaces';
 
@@ -32,9 +33,20 @@ async function get_info_class(browser:any,url:string,classiff:TitlesBody){
     return data
 }
 
+
+function write_json(data: Array<ClassF>){
+    fs.writeFile(`data/classification/classification.json`, JSON.stringify(data,null,4), 'utf8', function (err) {
+        if (err) {
+            return console.log(err);
+        }
+        console.log("The file was saved!");
+    }); 
+}
+
 export async function get_all_class(browser_page:any,url:string){
     const page = browser_page[1];
     const all_class: Array<TitlesBody> = await get_class_page(page);
+    let all_data : Array<ClassF> = []
     for(const info of all_class){
         const data:ClassF =  {
             'href':info.href,
@@ -42,6 +54,8 @@ export async function get_all_class(browser_page:any,url:string){
             'data':await get_info_class(browser_page[0],url,info)
         } 
         console.log(data)
-        
+        all_data = all_data.concat(data)
     }
+    console.log(`data ${all_data}`)
+    write_json(all_data)
 }
