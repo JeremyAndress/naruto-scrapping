@@ -24,7 +24,7 @@ async function get_dimensions(page: any){
 }
 
 export async function generate_launch(url:string,path:string){
-    const browser = await launch({headless: true});
+    const browser = await launch({headless: false});
     const page = await browser.newPage();
     await page.goto(`${url}${path}`);
     const dimensions = await get_dimensions(page);
