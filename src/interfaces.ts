@@ -3,6 +3,15 @@ export interface TitlesBody {
     title: string 
 }
 
+// export interface OnlyName{
+//     title?: string | null
+// }
+
+export interface CharacterTable{
+    family?: Array<string|null> | null
+}
+
+
 export interface ClassF extends TitlesBody{
     data: string
 }

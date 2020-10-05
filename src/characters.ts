@@ -1,6 +1,6 @@
 import * as fs from "fs";
 import {page_refresh} from '../src/utils';
-import {TitlesBody} from '../src/interfaces';
+import {TitlesBody,CharacterTable} from '../src/interfaces';
 
 
 async function get_info_charac(browser:any,url:string,classiff:TitlesBody){
@@ -8,10 +8,32 @@ async function get_info_charac(browser:any,url:string,classiff:TitlesBody){
     await page_refresh(page,`${url}${classiff.href}`);
     const data = await page.evaluate(()=>{
         const collapse = Array.from(document.querySelectorAll('span.mw-collapsible-toggle.mw-collapsible-toggle-collapsed'))
+        let table_character:CharacterTable = {}
         for (const coll  of collapse){
             (coll as HTMLElement).click()
         }
+        //tables data
+        const table = Array.from(document.querySelectorAll('table.box.cellbox.mw-collapsible.mw-made-collapsible'))
+        for (const tab of table){
+            const title_table = tab.querySelector('th')?.textContent 
+            if(title_table?.includes('Family')){
+                const titles_li = Array.from(tab.querySelectorAll('li'))
+
+                table_character.family = titles_li.map(ti =>ti ? ti.textContent: null)
+            }
+            // if(title_table?.includes('Nature Type')){
+
+            // }
+            // if(title_table?.includes('Jutsu')){
+
+            // }
+            // if(title_table?.includes('Tools')){
+
+            // }
+        }
+        return table_character
     })
+    console.log(data)
     return data
 }
 
